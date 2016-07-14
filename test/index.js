@@ -1,5 +1,5 @@
 var tape = require("tape"),
-    inflections = require("inflections"),
+    inflections = require("@nathanfaucett/inflections"),
     tableize = require("..");
 
 

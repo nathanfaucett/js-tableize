@@ -1,7 +1,7 @@
-var isString = require("is_string"),
-    camelize = require("camelize"),
-    underscore = require("underscore"),
-    pluralize = require("pluralize");
+var isString = require("@nathanfaucett/is_string"),
+    camelize = require("@nathanfaucett/camelize"),
+    underscore = require("@nathanfaucett/underscore"),
+    pluralize = require("@nathanfaucett/pluralize");
 
 
 module.exports = tableize;
